@@ -26,13 +26,13 @@ Here are some of the visualizations created through the script as part as the da
 
 ![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/05%20trilogy_wordcloud.png)
 
-<img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/06%20gollum_wordcloud.png" width="250"> <img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/08%20smeagol_wordcloud.png" width="250"> <img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/08%20smeagol_wordcloud.png" width="400">
+<img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/06%20gollum_wordcloud.png" width="230"> <img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/08%20smeagol_wordcloud.png" width="230"> <img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/gollum_gif.gif" width="330">
 
-<img src="(https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/09%20Frodo_wordcloud.png" width="400"> <img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/08%20smeagol_wordcloud.png" width="400">
+<img src="(https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/09%20Frodo_wordcloud.png" width="350"> <img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/frodo_gif.gif" width="350">
 
-<img src="(https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/07%20gimli_wordcloud.png" width="400"> <img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/08%20smeagol_wordcloud.png" width="400">
+<img src="(https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/07%20gimli_wordcloud.png" width="350"> <img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/gimli.gif" width="350">
 
-<img src="(https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/10%20gandalf_wordcloud.png" width="400"> <img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/gandalf%20gif.gif" width="400">
+<img src="(https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/10%20gandalf_wordcloud.png" width="350"> <img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/gandalf%20gif.gif" width="350">
 
 **_Most mentioned characters_**
 
