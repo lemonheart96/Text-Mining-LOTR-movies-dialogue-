@@ -1,11 +1,11 @@
 # Text Mining LOTR movies dialogue
-**_Analisys of the dialogue from the Lord of the Rings movie trilogy._**
+**_Analysis of the dialogue from the Lord of the Rings movie trilogy._**
 
 ## Content
-- Load and prepare dat
+- Load and prepare data
 - Data Mining and Visualization (who talks more, frequent words, most mentioned character,...)
 
-_* Note: The Ring is treated as a character, and Gollum and Sméagol have been treated as different characters._
+_* Note: The Ring is treated as a character; Gollum and Sméagol have been treated as different characters._
 
 Here are some of the visualizations created through the script as part as the data exploration:
 
