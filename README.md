@@ -21,15 +21,12 @@ Here are some of the visualizations created through the script as part as the da
 
 **_Frequent words_**
 
-![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/trilogy_poster.jpg)(./pic/pic1s.png =250x)
-![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/04%20movies_wordcloud.png)
+<img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/trilogy_poster.jpg" width="600">
+<img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/04%20movies_wordcloud.png" width="600">
 
 ![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/05%20trilogy_wordcloud.png)
-![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/06%20gollum_wordcloud.png)
-![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/08%20smeagol_wordcloud.png)
-![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/09%20Frodo_wordcloud.png)
-![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/10%20gandalf_wordcloud.png)
-![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/07%20gimli_wordcloud.png)
+![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/06%20gollum_wordcloud.png) ![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/08%20smeagol_wordcloud.png)
+![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/09%20Frodo_wordcloud.png) ![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/10%20gandalf_wordcloud.png) ![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/07%20gimli_wordcloud.png)
 
 **_Most mentioned characters_**
 
