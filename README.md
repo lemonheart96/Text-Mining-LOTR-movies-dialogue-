@@ -25,8 +25,14 @@ Here are some of the visualizations created through the script as part as the da
 <img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/04%20movies_wordcloud.png" width="600">
 
 ![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/05%20trilogy_wordcloud.png)
-![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/06%20gollum_wordcloud.png) ![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/08%20smeagol_wordcloud.png)
-![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/09%20Frodo_wordcloud.png) ![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/10%20gandalf_wordcloud.png) ![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/07%20gimli_wordcloud.png)
+
+<img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/06%20gollum_wordcloud.png" width="250"> <img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/08%20smeagol_wordcloud.png" width="250"> <img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/08%20smeagol_wordcloud.png" width="400">
+
+<img src="(https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/09%20Frodo_wordcloud.png" width="400"> <img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/08%20smeagol_wordcloud.png" width="400">
+
+<img src="(https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/07%20gimli_wordcloud.png" width="400"> <img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/08%20smeagol_wordcloud.png" width="400">
+
+<img src="(https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/10%20gandalf_wordcloud.png" width="400"> <img src="https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/gandalf%20gif.gif" width="400">
 
 **_Most mentioned characters_**
 
@@ -34,4 +40,3 @@ Here are some of the visualizations created through the script as part as the da
 
 **_THE END!_**
 
-![alt text](https://github.com/odeibarredo/Text-Mining-LOTR-movies-dialogue-/blob/master/img/gandalf%20gif.gif)
